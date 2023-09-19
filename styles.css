@@ -1,0 +1,23 @@
+body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+            background-image: url("https://t4.ftcdn.net/jpg/05/42/23/47/360_F_542234770_lGQC8LFjxPCqeAT6Zvhv7fCvg9BrZNLq.jpg");
+            width: 100%;
+            font-family: cursive;
+/*          background-repeat: no-repeat;*/
+            background-size: cover;
+ 
+
+        }
+        button {
+            padding: 5px 10px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        #result {
+            margin-top: 20px;
+            color: aliceblue;
+        }
